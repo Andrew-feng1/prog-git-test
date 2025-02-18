@@ -1,3 +1,3 @@
-textbook:100
-notebook:600
+textbook:9000
+notebook:123456
 laptop:9000
