@@ -1,3 +1,3 @@
-textbook:0
-notebook:0
-laptop:0
+textbook:9000
+notebook:123456
+laptop:9000
